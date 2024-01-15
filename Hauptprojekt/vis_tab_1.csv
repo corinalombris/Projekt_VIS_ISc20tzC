@@ -1,0 +1,200 @@
+﻿country;WEI;women's empowerment group;GGPI;gender parity group;human development group;sustainable Development Goal regions
+Australia;0.805;high;0.87;high;very high;Australia and New Zealand
+Belgium;0.801;high;0.869;high;very high;Europe and Northern America
+Denmark;0.804;high;0.845;high;very high;Europe and Northern America
+Iceland;0.816;high;0.914;high;very high;Europe and Northern America
+Norway;0.802;high;0.887;high;very high;Europe and Northern America
+Sweden;0.828;high;0.925;high;very high;Europe and Northern America
+Austria;0.778;upper-middle;0.808;high;very high;Europe and Northern America
+Bulgaria;0.701;upper-middle;0.767;upper-middle;high;Europe and Northern America
+Canada;0.783;upper-middle;0.806;high;very high;Europe and Northern America
+Croatia;0.73;upper-middle;0.772;upper-middle;very high;Europe and Northern America
+Czechia;0.707;upper-middle;0.68;lower-middle;very high;Europe and Northern America
+Estonia;0.75;upper-middle;0.774;upper-middle;very high;Europe and Northern America
+Finland;0.787;upper-middle;0.86;high;very high;Europe and Northern America
+France;0.792;upper-middle;0.861;high;very high;Europe and Northern America
+Germany;0.762;upper-middle;0.78;upper-middle;very high;Europe and Northern America
+Hungary;0.707;upper-middle;0.718;upper-middle;very high;Europe and Northern America
+Ireland;0.759;upper-middle;0.781;upper-middle;very high;Europe and Northern America
+Italy;0.7;upper-middle;0.767;upper-middle;very high;Europe and Northern America
+Latvia;0.782;upper-middle;0.831;high;very high;Europe and Northern America
+Lithuania;0.756;upper-middle;0.793;upper-middle;very high;Europe and Northern America
+Luxembourg;0.737;upper-middle;0.757;upper-middle;very high;Europe and Northern America
+Netherlands;0.778;upper-middle;0.807;high;very high;Europe and Northern America
+Poland;0.757;upper-middle;0.798;upper-middle;very high;Europe and Northern America
+Portugal;0.749;upper-middle;0.843;high;very high;Europe and Northern America
+Serbia;0.72;upper-middle;0.816;high;very high;Europe and Northern America
+Singapore;0.757;upper-middle;0.783;upper-middle;very high;Eastern Asia and South-Eastern Asia
+Slovenia;0.791;upper-middle;0.821;high;very high;Europe and Northern America
+Spain;0.773;upper-middle;0.855;high;very high;Europe and Northern America
+Switzerland;0.786;upper-middle;0.817;high;very high;Europe and Northern America
+United Kingdom;0.778;upper-middle;0.821;high;very high;Europe and Northern America
+United States;0.752;upper-middle;0.787;upper-middle;very high;Europe and Northern America
+Albania;0.61;lower-middle;0.86;high;high;Europe and Northern America
+Armenia;0.656;lower-middle;0.77;upper-middle;high;Northern Africa and Western Asia
+Bolivia (Plurinational State of);0.632;lower-middle;0.829;high;medium;Latin America and the Caribbean
+Brazil;0.637;lower-middle;0.68;lower-middle;high;Latin America and the Caribbean
+Chile;0.699;lower-middle;0.76;upper-middle;very high;Latin America and the Caribbean
+China;0.664;lower-middle;0.725;upper-middle;high;Eastern Asia and South-Eastern Asia
+Costa Rica;0.677;lower-middle;0.844;high;very high;Latin America and the Caribbean
+Cyprus;0.649;lower-middle;0.641;lower-middle;very high;Northern Africa and Western Asia
+Dominican Republic;0.603;lower-middle;0.771;upper-middle;high;Latin America and the Caribbean
+Ecuador;0.63;lower-middle;0.751;upper-middle;high;Latin America and the Caribbean
+Greece;0.679;lower-middle;0.703;upper-middle;very high;Europe and Northern America
+Israel;0.694;lower-middle;0.714;upper-middle;very high;Northern Africa and Western Asia
+Jamaica;0.694;lower-middle;0.824;high;high;Latin America and the Caribbean
+Japan;0.651;lower-middle;0.627;lower-middle;very high;Eastern Asia and South-Eastern Asia
+Malta;0.696;lower-middle;0.747;upper-middle;very high;Europe and Northern America
+Mauritius;0.613;lower-middle;0.728;upper-middle;very high;Sub-Saharan Africa
+Moldova (Republic of);0.686;lower-middle;0.878;high;high;Europe and Northern America
+Mongolia;0.67;lower-middle;0.784;upper-middle;high;Eastern Asia and South-Eastern Asia
+Montenegro;0.64;lower-middle;0.719;upper-middle;very high;Europe and Northern America
+Namibia;0.617;lower-middle;0.856;high;medium;Sub-Saharan Africa
+North Macedonia;0.682;lower-middle;0.776;upper-middle;high;Europe and Northern America
+Peru;0.64;lower-middle;0.799;upper-middle;high;Latin America and the Caribbean
+Philippines;0.618;lower-middle;0.772;upper-middle;medium;Eastern Asia and South-Eastern Asia
+Romania;0.623;lower-middle;0.658;lower-middle;very high;Europe and Northern America
+Slovakia;0.696;lower-middle;0.697;lower-middle;very high;Europe and Northern America
+South Africa;0.68;lower-middle;0.823;high;high;Sub-Saharan Africa
+Thailand;0.635;lower-middle;0.677;lower-middle;very high;Eastern Asia and South-Eastern Asia
+United Arab Emirates;0.68;lower-middle;0.783;upper-middle;very high;Northern Africa and Western Asia
+Uruguay;0.688;lower-middle;0.825;high;very high;Latin America and the Caribbean
+Viet Nam;0.612;lower-middle;0.758;upper-middle;high;Eastern Asia and South-Eastern Asia
+Bangladesh;0.443;low;0.527;low;medium;Central Asia and Southern Asia
+Belize;0.569;low;0.73;upper-middle;medium;Latin America and the Caribbean
+Benin;0.418;low;0.497;low;low;Sub-Saharan Africa
+Bhutan;0.562;low;0.625;lower-middle;medium;Central Asia and Southern Asia
+Bosnia and Herzegovina;0.597;low;0.622;lower-middle;high;Europe and Northern America
+Botswana;0.56;low;0.675;lower-middle;medium;Sub-Saharan Africa
+Burkina Faso;0.443;low;0.595;low;low;Sub-Saharan Africa
+Burundi;0.53;low;0.765;upper-middle;low;Sub-Saharan Africa
+Cambodia;0.542;low;0.619;lower-middle;medium;Eastern Asia and South-Eastern Asia
+Cameroon;0.52;low;0.752;upper-middle;medium;Sub-Saharan Africa
+Colombia;0.592;low;0.693;lower-middle;high;Latin America and the Caribbean
+Congo (Democratic Republic of the);0.399;low;0.637;lower-middle;low;Sub-Saharan Africa
+Côte d'Ivoire;0.455;low;0.594;low;medium;Sub-Saharan Africa
+Egypt;0.466;low;0.534;low;high;Northern Africa and Western Asia
+El Salvador;0.542;low;0.66;lower-middle;medium;Latin America and the Caribbean
+Gambia;0.427;low;0.524;low;low;Sub-Saharan Africa
+Ghana;0.524;low;0.563;low;medium;Sub-Saharan Africa
+Guatemala;0.482;low;0.575;low;medium;Latin America and the Caribbean
+Guinea;0.4;low;0.546;low;low;Sub-Saharan Africa
+Honduras;0.544;low;0.716;upper-middle;medium;Latin America and the Caribbean
+India;0.52;low;0.56;low;medium;Central Asia and Southern Asia
+Indonesia;0.568;low;0.652;lower-middle;high;Eastern Asia and South-Eastern Asia
+Iran (Islamic Republic of);0.454;low;0.393;low;high;Central Asia and Southern Asia
+Iraq;0.363;low;0.486;low;medium;Northern Africa and Western Asia
+Jordan;0.488;low;0.562;low;high;Northern Africa and Western Asia
+Kenya;0.591;low;0.769;upper-middle;medium;Sub-Saharan Africa
+Lao People's Democratic Republic;0.582;low;0.839;high;medium;Eastern Asia and South-Eastern Asia
+Lebanon;0.372;low;0.422;low;high;Northern Africa and Western Asia
+Lesotho;0.531;low;0.784;upper-middle;low;Sub-Saharan Africa
+Liberia;0.435;low;0.604;lower-middle;low;Sub-Saharan Africa
+Malawi;0.464;low;0.606;lower-middle;low;Sub-Saharan Africa
+Maldives;0.518;low;0.575;low;high;Central Asia and Southern Asia
+Mali;0.4;low;0.579;low;low;Sub-Saharan Africa
+Mexico;0.598;low;0.803;high;high;Latin America and the Caribbean
+Myanmar;0.518;low;0.598;low;medium;Eastern Asia and South-Eastern Asia
+Nepal;0.491;low;0.618;lower-middle;medium;Central Asia and Southern Asia
+Niger;0.307;low;0.662;lower-middle;low;Sub-Saharan Africa
+Nigeria;0.444;low;0.514;low;low;Sub-Saharan Africa
+Pakistan;0.337;low;0.428;low;low;Central Asia and Southern Asia
+Panama;0.563;low;0.646;lower-middle;very high;Latin America and the Caribbean
+Paraguay;0.593;low;0.695;lower-middle;high;Latin America and the Caribbean
+Rwanda;0.565;low;0.846;high;low;Sub-Saharan Africa
+Senegal;0.511;low;0.623;lower-middle;low;Sub-Saharan Africa
+Sierra Leone;0.438;low;0.588;low;low;Sub-Saharan Africa
+Sri Lanka;0.568;low;0.516;low;high;Central Asia and Southern Asia
+Tanzania (United Republic of);0.51;low;0.714;upper-middle;low;Sub-Saharan Africa
+Togo;0.537;low;0.664;lower-middle;low;Sub-Saharan Africa
+Tunisia;0.512;low;0.594;low;high;Northern Africa and Western Asia
+Türkiye;0.498;low;0.511;low;very high;Northern Africa and Western Asia
+Uganda;0.463;low;0.672;lower-middle;low;Sub-Saharan Africa
+Yemen;0.141;low;0.141;low;low;Northern Africa and Western Asia
+Zambia;0.441;low;0.637;lower-middle;medium;Sub-Saharan Africa
+Zimbabwe;0.519;low;0.655;lower-middle;medium;Sub-Saharan Africa
+;;;;;;
+;;;;;;
+;;;;;;
+countries or territories with incomplete data;;;;;;
+Afghanistan;..;..;..;..;low;Central Asia and Southern Asia
+Algeria;..;..;..;..;high;Northern Africa and Western Asia
+Andorra;..;..;..;..;very high;Europe and Northern America
+Angola;..;..;..;..;medium;Sub-Saharan Africa
+Antigua and Barbuda;..;..;..;..;high;Latin America and the Caribbean
+Argentina;..;..;..;..;very high;Latin America and the Caribbean
+Azerbaijan;..;..;..;..;high;Northern Africa and Western Asia
+Bahamas;..;..;..;..;very high;Latin America and the Caribbean
+Bahrain;..;..;..;..;very high;Northern Africa and Western Asia
+Barbados;..;..;..;..;high;Latin America and the Caribbean
+Belarus;..;..;..;..;very high;Europe and Northern America
+Brunei Darussalam;..;..;..;..;very high;Eastern Asia and South-Eastern Asia
+Cabo Verde;..;..;..;..;medium;Sub-Saharan Africa
+Central African Republic;..;..;..;..;low;Sub-Saharan Africa
+Chad;..;..;..;..;low;Sub-Saharan Africa
+Comoros;..;..;..;..;medium;Sub-Saharan Africa
+Congo;..;..;..;..;medium;Sub-Saharan Africa
+Cuba;..;..;..;..;high;Latin America and the Caribbean
+Djibouti;..;..;..;..;low;Sub-Saharan Africa
+Dominica;..;..;..;..;high;Latin America and the Caribbean
+Equatorial Guinea;..;..;..;..;medium;Sub-Saharan Africa
+Eritrea;..;..;..;..;low;Sub-Saharan Africa
+Eswatini (Kingdom of);..;..;..;..;medium;Sub-Saharan Africa
+Ethiopia;..;..;..;..;low;Sub-Saharan Africa
+Fiji;..;..;..;..;high;Oceania (excluding Australia and New Zealand)
+Gabon;..;..;..;..;high;Sub-Saharan Africa
+Georgia;..;..;..;..;very high;Northern Africa and Western Asia
+Grenada;..;..;..;..;high;Latin America and the Caribbean
+Guinea-Bissau;..;..;..;..;low;Sub-Saharan Africa
+Guyana;..;..;..;..;high;Latin America and the Caribbean
+Haiti;..;..;..;..;low;Latin America and the Caribbean
+Hong Kong, China (SAR);..;..;..;..;very high;Eastern Asia and South-Eastern Asia
+Kazakhstan;..;..;..;..;very high;Central Asia and Southern Asia
+Kiribati;..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Korea (Democratic People's Rep. of);..;..;..;..;other countries or territories;Eastern Asia and South-Eastern Asia
+Korea (Republic of);..;..;..;..;very high;Eastern Asia and South-Eastern Asia
+Kuwait;..;..;..;..;very high;Northern Africa and Western Asia
+Kyrgyzstan;..;..;..;..;medium;Central Asia and Southern Asia
+Libya;..;..;..;..;high;Northern Africa and Western Asia
+Liechtenstein;..;..;..;..;very high;Europe and Northern America
+Madagascar;..;..;..;..;low;Sub-Saharan Africa
+Malaysia;..;..;..;..;very high;Eastern Asia and South-Eastern Asia
+Marshall Islands;..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Mauritania;..;..;..;..;medium;Sub-Saharan Africa
+Micronesia (Federated States of);..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Monaco;..;..;..;..;other countries or territories;Europe and Northern America
+Morocco;..;..;..;..;medium;Northern Africa and Western Asia
+Mozambique;..;..;..;..;low;Sub-Saharan Africa
+Nauru;..;..;..;..;other countries or territories;Oceania (excluding Australia and New Zealand)
+New Zealand;..;..;..;..;very high;Australia and New Zealand
+Nicaragua;..;..;..;..;medium;Latin America and the Caribbean
+Oman;..;..;..;..;very high;Northern Africa and Western Asia
+Palau;..;..;..;..;high;Oceania (excluding Australia and New Zealand)
+Palestine, State of;..;..;..;..;high;Northern Africa and Western Asia
+Papua New Guinea;..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Qatar;..;..;..;..;very high;Northern Africa and Western Asia
+Russian Federation;..;..;..;..;very high;Europe and Northern America
+Saint Kitts and Nevis;..;..;..;..;high;Latin America and the Caribbean
+Saint Lucia;..;..;..;..;high;Latin America and the Caribbean
+Saint Vincent and the Grenadines;..;..;..;..;high;Latin America and the Caribbean
+Samoa;..;..;..;..;high;Oceania (excluding Australia and New Zealand)
+San Marino;..;..;..;..;very high;Europe and Northern America
+Sao Tome and Principe;..;..;..;..;medium;Sub-Saharan Africa
+Saudi Arabia;..;..;..;..;very high;Northern Africa and Western Asia
+Seychelles;..;..;..;..;high;Sub-Saharan Africa
+Solomon Islands;..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Somalia;..;..;..;..;other countries or territories;Sub-Saharan Africa
+South Sudan;..;..;..;..;low;Sub-Saharan Africa
+Sudan;..;..;..;..;low;Northern Africa and Western Asia
+Suriname;..;..;..;..;high;Latin America and the Caribbean
+Syrian Arab Republic;..;..;..;..;medium;Northern Africa and Western Asia
+Tajikistan;..;..;..;..;medium;Central Asia and Southern Asia
+Timor-Leste;..;..;..;..;medium;Eastern Asia and South-Eastern Asia
+Tonga;..;..;..;..;high;Oceania (excluding Australia and New Zealand)
+Trinidad and Tobago;..;..;..;..;very high;Latin America and the Caribbean
+Turkmenistan;..;..;..;..;high;Central Asia and Southern Asia
+Tuvalu;..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Ukraine;..;..;..;..;high;Europe and Northern America
+Uzbekistan;..;..;..;..;high;Central Asia and Southern Asia
+Vanuatu;..;..;..;..;medium;Oceania (excluding Australia and New Zealand)
+Venezuela (Bolivarian Republic of);..;..;..;..;medium;Latin America and the Caribbean
