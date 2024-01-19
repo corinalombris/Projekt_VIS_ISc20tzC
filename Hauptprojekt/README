@@ -1,0 +1,31 @@
+Gruppe 2 - Fabienne Müller, Julian Darms und Corina Lombris
+
+Umgesetzt:
+- drei verschiedene Arten von Grafiken
+- vier verschiedene Filterfunktionen (als Overlay, damit die Grafiken grösser angezeigt werden können)
+- Reset-Button für Filter
+
+Nicht umgesetzt:
+- Output-Tabellen neben Grafiken
+- Feld mit Dateninfo
+- Eingabefeld bei Filtern für WEI und GGPI
+
+Sonstiges:
+Spaltenbezeichnungen im CSV-File angepasst, damit sie einfacher im Code abgerufen werden können.
+
+Verwendete Quellen:
+https://www.w3schools.com
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://dash.plotly.com/dash-core-components
+https://databraineo.com/ki-training-resources/python/interaktive-dashboards-in-python-plotly-dash-tutorial/#Das_erste_Dashboard_mit_Plotly_Dash
+https://wiki.selfhtml.org/wiki/SELFHTML
+https://plotly.com/graphing-libraries/
+https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Other/Dash_Introduction/intro.py
+https://dash-bootstrap-components.opensource.faculty.ai/docs/components/offcanvas/
+https://www.youtube.com/watch?v=O2_wjDBisuM&t=15s
+https://www.youtube.com/watch?v=MSAFhbpOQag&t=315s
+https://www.youtube.com/watch?v=hSPmj7mK6ng
+https://www.youtube.com/watch?v=DIk-y41djCQ&t=14s
+
+
+
